@@ -1,1 +1,3 @@
-alert('Hello world !');
+const name = prompt(`Vous etes ?`);
+
+alert(`Hello ${name} !`);
